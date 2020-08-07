@@ -1,4 +1,4 @@
-### Welcome To My Github 🖖🏿  Im [Justin!]
+### Welcome To My Github 🖖🏿  Im Justin [Justin!]
 [<img align="left" alt="justinemanueljones.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="justinemanueljones | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="justinemanueljones | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
@@ -35,6 +35,7 @@
 <a href="https://github.com/justinemanueljones">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinemanueljones&_icons=true&hide_border=true" />
 </a>
+
 [Justin]: https://https://github.com/justinemanueljones?tab=repositories
 [website]: https://justinemanueljones.com
 [instagram]: https://instagram.com/justinemanueljones
