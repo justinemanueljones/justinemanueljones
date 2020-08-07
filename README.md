@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="justinemanueljones's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cjustinemanueljones&show_icons=true&hide_border=true" />
+<img align="left" alt="Justinemanueljones' Github Stats" src="https://github-readme-stats.vercel.app/api?username=justinemanueljones&show_icons=true&hide_border=true" />
 
 [website]: https://justinemanueljones.com
 [instagram]: https://instagram.com/justinemanueljones
