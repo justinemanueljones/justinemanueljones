@@ -33,6 +33,10 @@
 
 <img align="left" alt="Justinemanueljones' Github Stats" src="https://github-readme-stats.vercel.app/api?username=justinemanueljones&show_icons=true&hide_border=true" />
 
+<a href="https://github.com/justinemanueljones">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinemanueljones&theme=dark&hide_langs_below=1" />
+</a>
+
 [website]: https://justinemanueljones.com
 [instagram]: https://instagram.com/justinemanueljones
 [instagram2]: https://instagram.com/justinemanuelj
