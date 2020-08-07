@@ -11,7 +11,7 @@
 - 🤔   I’m Looking For Help With On Becoming A Better Web Developer
 - 💬   Ask Me About The Best Resturants In Detroit
 - 😄   Pronouns: Him/Him
-<br/>
+
 <br/>
 [![Twitter: justin](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
