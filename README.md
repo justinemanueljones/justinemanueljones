@@ -5,30 +5,16 @@
 [<img align="left" alt="justinemanueljones | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
 [<img align="left" alt="justinemanueljones | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="justinemanueljones | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br/>
 <br/>
-
 - 🖥️   Currently Attending Lambda School Coding Bootcamp 
 - 🌱   I’m currently Learning Full Stack Web Development
 - 👯   I’m Looking To Collaborate On More Open Sourced Projetcs
 - 🤔   I’m Looking For Help With On Becoming A Better Web Developer
 - 💬   Ask Me About The Best Resturants In Detroit
 - 😄   Pronouns: Him/Him
-
 <br/>
 <br/>
-
-
-[<img align="left" alt="justinemanueljones.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="justinemanueljones | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="justinemanueljones | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
-[<img align="left" alt="justinemanueljones | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="justinemanueljones | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
