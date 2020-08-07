@@ -12,7 +12,7 @@
 - 💬   Ask Me About The Best Resturants In Detroit
 - 😄   Pronouns: Him/Him
 
-[![Twitter: JUSTIN](https://img.shields.io/twitter/follow/Justin Emanuel Jones?style=social)](https://twitter.com/imthepk)
+[![Twitter: JUSTIN](https://img.shields.io/twitter/follow/Justin-Emanuel-Jones?style=social)](https://twitter.com/imthepk)
 [![Linkedin: Justin Emanuel Jones](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-emanuel-jones-b66838122/)](https://www.linkedin.com/in/justin-emanuel-jones-b66838122/)
 [![GitHub justinemanueljones](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/justinemanueljones)
 
