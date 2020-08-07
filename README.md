@@ -13,7 +13,7 @@
 - 😄   Pronouns: Him/Him
 
 [![Twitter: JUSTIN](https://img.shields.io/twitter/follow/justinemanuelj?style=social)](https://twitter.com/justinemanuelj)
-[![Linkedin: justinemanuelj](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Justinenaueljjj/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: justinemanuelj](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-emanuel-jones-b66838122/)](https://www.linkedin.com/in/justinemanueljones/)
 [![GitHub justinemanueljones](https://img.shields.io/github/followers/justinemanueljones?label=follow&style=social)](https://github.com/justinemanueljones)
 
 
