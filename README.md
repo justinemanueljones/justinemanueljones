@@ -11,6 +11,10 @@
 - 🤔   I’m Looking For Help With On Becoming A Better Web Developer
 - 💬   Ask Me About The Best Resturants In Detroit
 - 😄   Pronouns: Him/Him
+[![Twitter: justinemanueljones](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/justinemanueljones)
+[![Linkedin: justinemanueljones](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/justinemanueljones/)
+[![GitHub Justinemanueljones](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/justinemanueljones)
+[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://justinemanueljones/)
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
