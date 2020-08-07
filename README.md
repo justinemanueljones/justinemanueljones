@@ -6,7 +6,6 @@
 [<img align="left" alt="justinemanueljones | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="justinemanueljones | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
-<br/>
 - 🖥️   Currently Attending Lambda School Coding Bootcamp 
 - 🌱   I’m currently Learning Full Stack Web Development
 - 👯   I’m Looking To Collaborate On More Open Sourced Projetcs
