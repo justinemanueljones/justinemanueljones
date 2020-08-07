@@ -12,10 +12,9 @@
 - 💬   Ask Me About The Best Resturants In Detroit
 - 😄   Pronouns: Him/Him
 
-[![Twitter: justin](https://img.shields.io/twitter/follow/justin?style=social)](https://twitter.com/justin)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+[![Twitter: justinemanueljones](https://img.shields.io/twitter/follow/justin?style=social)](https://twitter.com/justinemanueljones)
+[![Linkedin: Justin Emanuel Jones](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinemanueljones/)](https://www.linkedin.com/in/justinemanueljones/)
+[![GitHub justinemanueljones](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/justinemanueljones)
 
 
 ### Languages and Tools:
