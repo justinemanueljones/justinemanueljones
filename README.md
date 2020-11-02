@@ -1,4 +1,4 @@
-### [𝕁𝕦𝕤𝕥𝕚𝕟 𝔼𝕞𝕒𝕟𝕦𝕖𝕝 𝕁𝕠𝕟𝕖𝕤 🇳🇬](https://github.com/justinemanueljones?tab=repositories)
+## [𝕁𝕦𝕤𝕥𝕚𝕟 𝔼𝕞𝕒𝕟𝕦𝕖𝕝 𝕁𝕠𝕟𝕖𝕤 🇳🇬](https://github.com/justinemanueljones?tab=repositories)
 
 <img align="left" style="margin-right: 1.5rem;"
 alt="Computer logo" 
@@ -39,13 +39,7 @@ width="30px"  src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg"
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<br/>
-<br/>
-
 <img  alt="Justinemanueljones' Github Stats" src="https://github-readme-stats.vercel.app/api?username=justinemanueljones&show_icons=true&theme=dark" />
-
-<br/>
-<br/>
 
 <div style="text-align:center">
 
