@@ -32,10 +32,7 @@ width="30px"  src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg"
 [<img align="left" style="margin-right: 1.5rem;"
 alt="https://instagram.com/justinemanuelj.com" 
 width="30px"  src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" 
-/>][Instagram2] <br/>
-<br/>
-
-
+/>][Instagram2]
 [![GitHub justinemanueljones](https://img.shields.io/github/followers/justinemanueljones?label=Follow&style=social)](https://github.com/justinemanueljones)
 
 ### Languages and Tools:
