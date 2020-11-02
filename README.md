@@ -2,3 +2,4 @@
 ### 🖥 Full Stack Software Engineer 💻 
 ### 後の祭り！, 石の上にも三年
 https://useiconic.com/icons/globe/
+<img align="left" alt="justinemanueljones.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
