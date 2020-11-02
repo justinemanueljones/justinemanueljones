@@ -42,9 +42,7 @@ width="30px"  src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg"
 <br/>
 <br/>
 
-<img  alt="Justinemanueljones' Github Stats" src="https://github-readme-stats.vercel.app/api?username=justinemanueljones&show_icons=true&theme=dark" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinemanueljones&layout=compact&theme=dark)](https://github.com/justinemanueljones/github-readme-stats)
+<img alt="Justinemanueljones' Github Stats" src="https://github-readme-stats.vercel.app/api?username=justinemanueljones&show_icons=true&theme=dark"/>    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinemanueljones&layout=compact&theme=dark)](https://github.com/justinemanueljones/github-readme-stats)
 
 [Website]: https://justinemanueljones.com
 [Instagram]: https://instagram.com/justinemanueljones
