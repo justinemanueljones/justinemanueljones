@@ -36,21 +36,21 @@ width="30px"  src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg"
 [![GitHub justinemanueljones](https://img.shields.io/github/followers/justinemanueljones?label=Follow&style=social)](https://github.com/justinemanueljones)
 
 ### Languages and Tools:
-<img style="margin-right: 1rem;" width="36px" src="https://www.flaticon.com/svg/static/icons/svg/617/617509.svg"/>
+<img align="left" style="margin-right: 1rem;" width="36px" src="https://www.flaticon.com/svg/static/icons/svg/617/617509.svg"/>
 
-<img style="margin-right: 1rem;"  width="36px" src="https://www.flaticon.com/svg/static/icons/svg/136/136528.svg"/>
+<img align="left" style="margin-right: 1rem;"  width="36px" src="https://www.flaticon.com/svg/static/icons/svg/136/136528.svg"/>
 
-<img style="margin-right: 1rem;"  width="36px" src="https://www.flaticon.com/svg/static/icons/svg/136/136527.svg"/>
+<img align="left"  style="margin-right: 1rem;"  width="36px" src="https://www.flaticon.com/svg/static/icons/svg/136/136527.svg"/>
 
-<img style="margin-right: 1rem;"  width="36px" src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg"/>
+<img align="left" style="margin-right: 1rem;"  width="36px" src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg"/>
 
-<img style="margin-right: 1rem;"  width="36px" src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg"/>
+<img align="left" style="margin-right: 1rem;"  width="36px" src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg"/>
 
-<img  style="margin-right: 1rem;" width="36px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/>
+<img align="left"  style="margin-right: 1rem;" width="36px" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/>
 
-<img  style="margin-right: 1rem;" width="36px" src="https://www.flaticon.com/svg/static/icons/svg/2306/2306173.svg"/>
+<img align="left"  style="margin-right: 1rem;" width="36px" src="https://www.flaticon.com/svg/static/icons/svg/2306/2306173.svg"/>
 
-<img  style="margin-right: 1rem;" width="36px" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg"/>
+<img align="left"  style="margin-right: 1rem;" width="36px" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg"/>
 
 
 
